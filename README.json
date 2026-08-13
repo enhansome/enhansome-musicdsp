@@ -1,0 +1,791 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JUCE",
+          "description": "JUCE is an undeniably awesome C++ application/plug-in framework with audio roots. It boasts a vast amount of functionality for the development of music software, including support for almost all plug-in formats and platforms. JUCE is used widely in the music technology industry and it has excellent documentation, code standards, features and support. The JUCE team organise the Audio Developer's Conference (ADC) which is one of the best conferences to attend if you like audio programming. What's more all the videos from all the ADCs so far are available on youtube.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T07:53:33Z",
+            "owner": "juce-framework",
+            "repo": "JUCE",
+            "stars": 8772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Steinberg VST3 SDK",
+          "description": "The Steinberg VST3 SDK has been around for a long time, but recent versions start to add a lot of great features such as really good CMake support, Lots of documentation, and a nice template project. Since Steinberg include wrappers for VST2, AUv2, AUv3 and AAX it is somewhat like a plug-in framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2026-08-11T14:32:40Z",
+            "owner": "steinbergmedia",
+            "repo": "vst3sdk",
+            "stars": 2321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iPlug2",
+          "description": "Originally created by Cockos, iPlug is an awesome plug-in framework. For a long time, I was maintaining a fork of iPlug1, but over the last few years Alex Harker and I have reworked it into something new, with the imaginitive name: iPlug2. It's a massive improvement on the original version, adding support for GPU accelerated vector graphics, resizable high DPI UIs, iOS, WebViews, AUv3 and compiling to WebAudio/WASM, amongst many other things. iPlug2's syntax is super simple, for example, creating a parameter or a control in the UI is only a single line of C++ code.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2021-12-19T10:12:28Z",
+            "owner": "olilarkin",
+            "repo": "wdl-ol",
+            "stars": 941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DPF",
+          "description": "Distrho Plug-in Framework is a nice C++ plug-in framework by falkTX, supporting lots of Linux formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T09:36:21Z",
+            "owner": "DISTRHO",
+            "repo": "DPF",
+            "stars": 852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CPLUG",
+          "description": "A smart new plug-in abstraction in C that targets VST3, AUv2, CLAP and Standalone formats on desktop. It's very new but a nice clean and minimal way to target multiple formats producing tiny binaries. Also includes hot reloading capabilities for the standalone targets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-04T05:21:14Z",
+            "owner": "Tremus",
+            "repo": "CPLUG",
+            "stars": 190
+          }
+        }
+      ],
+      "title": "Audio Plug-in/App Frameworks"
+    },
+    {
+      "description": "If you want to create a robust cross-platform audio plug-in, there is a lot more involved than just programming your DSP and creating a user interface. There are many extra things to set up such as installers, testing, building in the cloud using github actions etc. Although these things are less fun than audio programming they will make your life much easier in the long term, but it becomes very tedious to set them up manually again and again. If you want to just be creative with a new project, it's smart to have a good template to start with, which is pre-configured to build and test your code in the cloud in a reproducible way. Here are some templates that people have made that you might want to use or look at if you are creating your own:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pamplejuce",
+          "description": "An excellent template for JUCE projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-19T11:36:26Z",
+            "owner": "sudara",
+            "repo": "pamplejuce",
+            "stars": 754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JUCECmakeRepoPrototype",
+          "description": "Eyal Amir also has one which looks good!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2025-12-04T21:32:57Z",
+            "owner": "eyalamirmusic",
+            "repo": "JUCECmakeRepoPrototype",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wolfsound - audio-plugin-template",
+          "description": "Jan Wilczek has made another excellent JUCE template",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2026-01-23T11:41:11Z",
+            "owner": "JanWilczek",
+            "repo": "audio-plugin-template",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iPlug2OOS",
+          "description": "Continuing the theme of self-promotion, here is the latest and greatest iPlug2 template project, set up with CI/CD, installer scripts, github workspaces etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T00:48:09Z",
+            "owner": "iPlug2",
+            "repo": "iPlug2OOS",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brad Howes AUv3 Template",
+          "description": "A template for iOS/macOS AUv3 projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-06-25T15:59:20Z",
+            "owner": "bradhowes",
+            "repo": "AUv3Template",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Audio plug-in templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Elements",
+          "description": "A very promising UI framework for audio software using modern C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-13T22:38:53Z",
+            "owner": "cycfi",
+            "repo": "elements",
+            "stars": 3716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VSTGUI",
+          "description": "VSTGUI is Steinberg's cross-platform UI framework for audio plug-ins. It is released under a BSD licence, it's an impressive piece of work and many plug-in developers use it for their products.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T15:28:29Z",
+            "owner": "steinbergmedia",
+            "repo": "vstgui",
+            "stars": 1082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PUGL",
+          "description": "A cross platform GLFW-like solution that lets plug-in developers use OpenGL for their UIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-15T15:34:02Z",
+            "owner": "lv2",
+            "repo": "pugl",
+            "stars": 212
+          }
+        }
+      ],
+      "title": "UI Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Q",
+          "description": "A very nice looking modern C++ DSP library with concise examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T00:46:10Z",
+            "owner": "cycfi",
+            "repo": "q",
+            "stars": 1418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spatial Audio Framework",
+          "description": "Another excellent library for ambisonics and other spatial audio related processing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-30T16:45:56Z",
+            "owner": "leomccormack",
+            "repo": "Spatial_Audio_Framework",
+            "stars": 740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gamma",
+          "description": "Gamma is a very awesome C++ DSP library by Lance Putnam. The beauty of Gamma is the conciseness of the implementation of certain techniques. How about this for a concise STFT example.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-02T14:15:05Z",
+            "owner": "LancePutnam",
+            "repo": "Gamma",
+            "stars": 498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WDL",
+          "description": "WDL is Cockos' library of reusable C++ code, that is used to make the DAW Reaper, amongst other things. It includes open source implementations of many useful things such as resampling and convolution, although there is next to no documentation and the code is difficult to understand. For more info about the various parts of WDL (which can be used independently), check the Cockos site",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-15T21:50:15Z",
+            "owner": "justinfrankel",
+            "repo": "WDL",
+            "stars": 479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MadronaLib",
+          "description": "Randy Jones' DSP library, which is awesome because it is all designed for SIMD processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T20:25:49Z",
+            "owner": "madrona-labs",
+            "repo": "madronalib",
+            "stars": 335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HOALibrary",
+          "description": "A flexible DSP library for high order ambisonics (HOA) - a spatial audio platform that is becoming more and more relevant thanks to VR (GPL Licence).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-07-29T19:36:45Z",
+            "owner": "CICM",
+            "repo": "HoaLibrary-Light",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mach1 Spatial SDK",
+          "description": "Vector based multichannel & spatial audio APIs for customizing multichannel or spatial audio pipelines & tools and agnostically playback any spatial, surround soundfields.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-06T20:53:12Z",
+            "owner": "Mach1Studios",
+            "repo": "m1-sdk",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HISSTools Library",
+          "description": "a nice BSD licensed library by Alex Harker, including FFT abstractions and multi-channel convolution, amongst other things",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-22T15:59:29Z",
+            "owner": "AlexHarker",
+            "repo": "HISSTools_Library",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "DSP Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "essentia",
+          "description": "Essentia is a huge collection of MIR algorithms that you can use to extract high and low level features from audio. AGPL3 license. Somewhat painful to build cross-platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-22T07:45:39Z",
+            "owner": "MTG",
+            "repo": "essentia",
+            "stars": 3690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audioflux",
+          "description": "AudioFlux is a new-kid-on the block and some what similar but looks designed for deep learning, it looks very promising and has a liberal (MIT) license.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-06T04:12:17Z",
+            "owner": "libAudioFlux",
+            "repo": "audioFlux",
+            "stars": 3350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "librosa.cpp",
+          "description": "Librosa is a widely used Python library for MIR tasks. With a little help from my agents, i've systematically ported it to a C++ library with WASM and Swift Package to boot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-23T13:03:03Z",
+            "owner": "olilarkin",
+            "repo": "librosa.cpp",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "Music Information Retrieval Libraries (C/C++)"
+    },
+    {
+      "description": "These are the software tools that I find useful in my audio programming.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Matplotlib-cpp",
+          "description": "A C++ interface to the matplotlib python plotting tool. Allows you to visualize algorithms using the same code that you can use in production.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-11-21T15:07:11Z",
+            "owner": "lava",
+            "repo": "matplotlib-cpp",
+            "stars": 4766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dspplot",
+          "description": "A python script that I find useful for plotting filter responses",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-03-05T20:26:35Z",
+            "owner": "kfrlib",
+            "repo": "dspplot",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xeus-cling",
+          "description": "This is a really cool project allowing you to use JIT compiled C++ in jupyter notebooks - which, like Matplotlib-cpp above is great for visualizing algorithms using the same code that you can use in production, inside the popular jupyter notebook format. Here is an example of how you can use those things together, easily via a ready made docker image.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-01-17T18:01:30Z",
+            "owner": "olilarkin",
+            "repo": "XeusClingMatplotLibExample",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "surge",
+          "description": "Surge was an excellent product which has been open sourced and is now being maintained and continually improved by the surge-synth team, with a new JUCE UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T23:26:05Z",
+            "owner": "surge-synthesizer",
+            "repo": "surge",
+            "stars": 3965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vital",
+          "description": "Vital is a very succesful wavetable synth with a slick interface done using the GPU. Amazing that a project like this can be open source!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-05-25T04:09:10Z",
+            "owner": "mtytel",
+            "repo": "vital",
+            "stars": 2104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "valentine",
+          "description": "An awesome compressor and great, complete project example for a cross platform audio plug-in in 2023.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-08-24T16:25:20Z",
+            "owner": "tote-bag-labs",
+            "repo": "valentine",
+            "stars": 192
+          }
+        }
+      ],
+      "title": "Exemplary open source audio plug-in projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Webkit's Web Audio API",
+          "description": "This is the C++ code for WebKit's implementation of the Web Audio API, as used in Safari.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T04:16:01Z",
+            "owner": "WebKit",
+            "repo": "WebKit",
+            "stars": 10062
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "supercollider",
+          "description": "Likewise, but make sure you look at the scsynth part for DSP stuff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T23:19:03Z",
+            "owner": "supercollider",
+            "repo": "supercollider",
+            "stars": 6685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BespokeSynth",
+          "description": "A pretty amazing modular synth/composition environment with nice real-time visualisation, loads of modules, and lots of flexibility",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-29T01:37:50Z",
+            "owner": "BespokeSynth",
+            "repo": "BespokeSynth",
+            "stars": 4687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vcvrack",
+          "description": "Whilst the other items in this list have been around a while and have somewhat arcane code-bases, this is pretty new and the API is very clean and simple. I think making a VCVRack module it is a great way to get into audio programming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-04T08:47:14Z",
+            "owner": "VCVRack",
+            "repo": "Rack",
+            "stars": 4402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dexed",
+          "description": "Dexed is a JUCE frontend to Raph Levien's \"Music Synthesier For Android\", which is an excellent DX7 emulation. Also ported to work on the web as a WebAudioModule",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-25T14:14:30Z",
+            "owner": "asb2m10",
+            "repo": "dexed",
+            "stars": 3459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AudioKit SynthOne",
+          "description": "SynthOne is a great open source project built using Audiokit, that will be very interesting to anyone looking to build an iOS synthesiser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2022-03-14T16:12:43Z",
+            "owner": "AudioKit",
+            "repo": "AudioKitSynthOne",
+            "stars": 1784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "csound",
+          "description": "CSound is still going strong after many years. It can also be used as an embeddable DSP library. There is a Web IDE, which is a great way to play with interesting scores/orchestras/UDOs that you find on the web and Cabbage lets you make plug-ins based on CSound orchestras.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T21:12:12Z",
+            "owner": "csound",
+            "repo": "csound",
+            "stars": 1501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tracktion engine",
+          "description": "Source code for an entire DAW engine, using modern C++. An amazing resource for learning all sorts of things including how to structure and architect large audio projects. GPL/Commercial license.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-03T21:30:59Z",
+            "owner": "Tracktion",
+            "repo": "tracktion_engine",
+            "stars": 1425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AirWindows Plugins",
+          "description": "A large collection of GUI-less plug-ins open source but supported via patreon see airwindows site",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-02T18:21:20Z",
+            "owner": "airwindows",
+            "repo": "airwindows",
+            "stars": 1200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puredata",
+          "description": "Pd is a really nice cross platform dataflow programming environment. Also check out libpd, which you can use as an embeddable DSP runtime in your C++ audio plug-in etc. Camomille combines libpd with JUCE to let you make plug-ins based on Pd patches. plugdata is an excellent new effort to make PD run as a plug-in with a fresh new UI built with JUCE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-02-26T10:06:47Z",
+            "owner": "pierreguillot",
+            "repo": "Camomile",
+            "stars": 988
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "choc",
+          "description": "From the creator of JUCE comes CHOC, an ISC licensed library of Classy Header-Only Classes. Including some useful audio related utilities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-31T18:35:26Z",
+            "owner": "Tracktion",
+            "repo": "choc",
+            "stars": 854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "destroyfx",
+          "description": "A brilliant collection of open source plug-ins that are very original have been around since the dawn of VST.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-15T17:32:14Z",
+            "owner": "sophiapoirier",
+            "repo": "destroyfx",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ni-media",
+          "description": "A very nice audio file loading library from Native Instruments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-21T09:22:33Z",
+            "owner": "NativeInstruments",
+            "repo": "ni-media",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obxd",
+          "description": "OBxd is a great sounding oberheim emulation plug-in, written with JUCE. DiscoDSP have updated it, and it has also been ported to work on the web as a WebAudioModule",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2014-10-27T18:30:00Z",
+            "owner": "2DaT",
+            "repo": "Obxd",
+            "stars": 136
+          }
+        }
+      ],
+      "title": "Miscellaneous open source audio code/projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ONNXRuntime",
+          "description": "Microsoft's ONNX Runtime is a ML inference engine that is well documented, performant, and customizable. Here is an iPlug2 example that I prepared that integrates onnxruntime into an audio plugin, using ort-builder - another project that I made in order to build custom, slimmed down static libraries for the onnxruntime",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T03:54:33Z",
+            "owner": "microsoft",
+            "repo": "onnxruntime",
+            "stars": 21362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeuralAmpModeler",
+          "description": "A similar project, which is also very cool - plug-in built with iPlug2!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T00:03:11Z",
+            "owner": "sdatkinson",
+            "repo": "neural-amp-modeler",
+            "stars": 2933
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RTNeural",
+          "description": "A library designed for realtime inference of Neural Network models with audio in mind. Very small when compared to linking a library like OnnxRuntime or libtensorflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-22T00:08:30Z",
+            "owner": "jatinchowdhury18",
+            "repo": "RTNeural",
+            "stars": 837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Torsion Audio's Neural Network Inference Template for Real-Time Cricital Audio Environments",
+          "description": "A great JUCE template for a machine learning based plug-in, set up for libTorch, TFLite, or OnnxRuntime, including code to help you offload inference onto a separate thread.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-07-28T14:14:50Z",
+            "owner": "Torsion-Audio",
+            "repo": "nn-inference-template",
+            "stars": 134
+          }
+        }
+      ],
+      "title": "Machine Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mutable instruments",
+          "description": "Emilie Gillet's work is inspirational. The code has been ported to VCVRack and to some nice iOS AUv3s",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-12-13T18:32:04Z",
+            "owner": "pichenettes",
+            "repo": "eurorack",
+            "stars": 3151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pedalvite",
+          "description": "An open source pedal board project from a developer who did a lot of the DSP in the best plugins of the last ~20 years.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-09-01T21:13:56Z",
+            "owner": "EleonoreMizo",
+            "repo": "pedalevite",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "the owl pedal/module",
+          "description": "This is a programmable stomp box and eurorack module that I've been working with since the kick starter campaign to launch it. It's a really nice little unit, which you can program in C++, FAUST, Pd or with Max gen~. I find the limited interface with 4 controls makes me think quite carefully about what's important about my DSP algorithm. You can find some patches I made for it (using a mixture of c++ and FAUST) in the user library, and the original code here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-06-15T20:23:09Z",
+            "owner": "olilarkin",
+            "repo": "OL-OWLPatches",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Hardware/embedded"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:20:48.542Z",
+    "original_repository": "olilarkin/awesome-musicdsp",
+    "original_repository_sha": "ff2187536d494427a20385c57580037f8e3869a1",
+    "enhanced_repository": "enhansome/enhansome-musicdsp",
+    "enhanced_repository_description": null,
+    "title": "More Awesome Music DSP* with stars"
+  }
+}
