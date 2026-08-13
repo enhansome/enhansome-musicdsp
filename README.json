@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T07:53:33Z",
+            "last_commit": "2026-08-13T15:57:10Z",
             "owner": "juce-framework",
             "repo": "JUCE",
-            "stars": 8772
+            "stars": 8779
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-05-30T16:45:56Z",
             "owner": "leomccormack",
             "repo": "Spatial_Audio_Framework",
-            "stars": 740
+            "stars": 742
           }
         },
         {
@@ -295,7 +295,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-03-06T20:53:12Z",
+            "last_commit": "2026-08-13T17:14:49Z",
             "owner": "Mach1Studios",
             "repo": "m1-sdk",
             "stars": 65
@@ -473,10 +473,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T04:16:01Z",
+            "last_commit": "2026-08-13T19:55:56Z",
             "owner": "WebKit",
             "repo": "WebKit",
-            "stars": 10062
+            "stars": 10064
           }
         },
         {
@@ -490,7 +490,7 @@
             "last_commit": "2026-08-12T23:19:03Z",
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6685
+            "stars": 6686
           }
         },
         {
@@ -532,7 +532,7 @@
             "last_commit": "2026-07-25T14:14:30Z",
             "owner": "asb2m10",
             "repo": "dexed",
-            "stars": 3459
+            "stars": 3458
           }
         },
         {
@@ -560,7 +560,7 @@
             "last_commit": "2026-08-12T21:12:12Z",
             "owner": "csound",
             "repo": "csound",
-            "stars": 1501
+            "stars": 1502
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2026-07-15T17:32:14Z",
             "owner": "sophiapoirier",
             "repo": "destroyfx",
-            "stars": 264
+            "stars": 266
           }
         },
         {
@@ -675,10 +675,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T03:54:33Z",
+            "last_commit": "2026-08-13T19:33:25Z",
             "owner": "microsoft",
             "repo": "onnxruntime",
-            "stars": 21362
+            "stars": 21369
           }
         },
         {
@@ -692,7 +692,7 @@
             "last_commit": "2026-07-20T00:03:11Z",
             "owner": "sdatkinson",
             "repo": "neural-amp-modeler",
-            "stars": 2933
+            "stars": 2934
           }
         },
         {
@@ -781,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:20:48.542Z",
+    "last_updated": "2026-08-13T19:58:59.760Z",
     "original_repository": "olilarkin/awesome-musicdsp",
     "original_repository_sha": "ff2187536d494427a20385c57580037f8e3869a1",
     "enhanced_repository": "enhansome/enhansome-musicdsp",
