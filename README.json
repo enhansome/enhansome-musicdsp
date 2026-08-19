@@ -12,10 +12,10 @@
             "archived": false,
             "id": 3884981,
             "language": "C++",
-            "last_commit": "2026-08-19T06:40:54Z",
+            "last_commit": "2026-08-19T16:50:04Z",
             "owner": "juce-framework",
             "repo": "JUCE",
-            "stars": 8795
+            "stars": 8796
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-09T15:28:29Z",
             "owner": "steinbergmedia",
             "repo": "vstgui",
-            "stars": 1084
+            "stars": 1085
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2023-11-21T15:07:11Z",
             "owner": "lava",
             "repo": "matplotlib-cpp",
-            "stars": 4767
+            "stars": 4768
           }
         },
         {
@@ -504,10 +504,10 @@
             "archived": false,
             "id": 320636477,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T11:35:33Z",
+            "last_commit": "2026-08-19T19:30:28Z",
             "owner": "WebKit",
             "repo": "WebKit",
-            "stars": 10082
+            "stars": 10083
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2026-08-17T10:39:04Z",
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6692
+            "stars": 6693
           }
         },
         {
@@ -672,7 +672,7 @@
             "last_commit": "2026-07-15T17:32:14Z",
             "owner": "sophiapoirier",
             "repo": "destroyfx",
-            "stars": 267
+            "stars": 268
           }
         },
         {
@@ -720,10 +720,10 @@
             "archived": false,
             "id": 156939672,
             "language": "C++",
-            "last_commit": "2026-08-19T07:39:55Z",
+            "last_commit": "2026-08-19T19:28:45Z",
             "owner": "microsoft",
             "repo": "onnxruntime",
-            "stars": 21399
+            "stars": 21400
           }
         },
         {
@@ -738,7 +738,7 @@
             "last_commit": "2026-07-20T00:03:11Z",
             "owner": "sdatkinson",
             "repo": "neural-amp-modeler",
-            "stars": 2963
+            "stars": 2964
           }
         },
         {
@@ -789,7 +789,7 @@
             "last_commit": "2023-12-13T18:32:04Z",
             "owner": "pichenettes",
             "repo": "eurorack",
-            "stars": 3161
+            "stars": 3162
           }
         },
         {
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:44:31.464Z",
+    "last_updated": "2026-08-19T19:35:19.931Z",
     "original_repository": "olilarkin/awesome-musicdsp",
     "original_repository_id": 128105860,
     "original_repository_sha": "ff2187536d494427a20385c57580037f8e3869a1",
