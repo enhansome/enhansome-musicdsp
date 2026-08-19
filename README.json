@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3884981,
             "language": "C++",
-            "last_commit": "2026-08-18T13:32:11Z",
+            "last_commit": "2026-08-19T06:40:54Z",
             "owner": "juce-framework",
             "repo": "JUCE",
-            "stars": 8793
+            "stars": 8795
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83790078,
             "language": "CMake",
             "last_commit": "2026-08-11T14:32:40Z",
             "owner": "steinbergmedia",
             "repo": "vst3sdk",
-            "stars": 2329
+            "stars": 2332
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 2815741,
             "language": "C",
             "last_commit": "2021-12-19T10:12:28Z",
             "owner": "olilarkin",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19712950,
             "language": "C++",
             "last_commit": "2026-08-17T13:48:53Z",
             "owner": "DISTRHO",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 761524337,
             "language": "C",
             "last_commit": "2026-08-04T05:21:14Z",
             "owner": "Tremus",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 303402467,
             "language": "C++",
             "last_commit": "2026-08-16T16:31:19Z",
             "owner": "sudara",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 239257598,
             "language": "CMake",
             "last_commit": "2025-12-04T21:32:57Z",
             "owner": "eyalamirmusic",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 668379174,
             "language": "CMake",
             "last_commit": "2026-01-23T11:41:11Z",
             "owner": "JanWilczek",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237939972,
             "language": "Python",
             "last_commit": "2026-08-01T00:48:09Z",
             "owner": "iPlug2",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 342503737,
             "language": "Swift",
             "last_commit": "2026-06-25T15:59:20Z",
             "owner": "bradhowes",
@@ -153,7 +163,7 @@
       "title": "Audio plug-in templates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54825678,
             "language": "C++",
             "last_commit": "2026-06-13T22:38:53Z",
             "owner": "cycfi",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48168902,
             "language": "C++",
             "last_commit": "2026-08-09T15:28:29Z",
             "owner": "steinbergmedia",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46066978,
             "language": "C",
             "last_commit": "2026-04-15T15:34:02Z",
             "owner": "lv2",
@@ -201,7 +214,7 @@
       "title": "UI Frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -210,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109459331,
             "language": "C++",
             "last_commit": "2026-08-16T08:56:04Z",
             "owner": "cycfi",
@@ -224,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128790913,
             "language": "C",
             "last_commit": "2026-05-30T16:45:56Z",
             "owner": "leomccormack",
@@ -238,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4826737,
             "language": "C++",
             "last_commit": "2026-08-02T14:15:05Z",
             "owner": "LancePutnam",
@@ -252,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13956578,
             "language": "C",
             "last_commit": "2026-08-14T01:33:55Z",
             "owner": "justinfrankel",
@@ -266,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7949127,
             "language": "C++",
             "last_commit": "2026-08-18T00:19:48Z",
             "owner": "madrona-labs",
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28267868,
             "language": "C++",
             "last_commit": "2019-07-29T19:36:45Z",
             "owner": "CICM",
@@ -294,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160861940,
             "language": "C",
             "last_commit": "2026-08-16T13:09:59Z",
             "owner": "Mach1Studios",
@@ -308,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168504770,
             "language": "C++",
             "last_commit": "2026-07-22T15:59:29Z",
             "owner": "AlexHarker",
@@ -319,7 +340,7 @@
       "title": "DSP Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -328,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10456942,
             "language": "C++",
             "last_commit": "2026-07-22T07:45:39Z",
             "owner": "MTG",
@@ -342,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 589514195,
             "language": "C",
             "last_commit": "2026-03-06T04:12:17Z",
             "owner": "libAudioFlux",
@@ -356,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1208345977,
             "language": "C++",
             "last_commit": "2026-06-23T13:03:03Z",
             "owner": "olilarkin",
@@ -376,11 +400,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24936365,
             "language": "C++",
             "last_commit": "2023-11-21T15:07:11Z",
             "owner": "lava",
             "repo": "matplotlib-cpp",
-            "stars": 4766
+            "stars": 4767
           }
         },
         {
@@ -390,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 63575599,
             "language": "Python",
             "last_commit": "2022-03-05T20:26:35Z",
             "owner": "kfrlib",
@@ -404,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 234188595,
             "language": "C++",
             "last_commit": "2020-01-17T18:01:30Z",
             "owner": "olilarkin",
@@ -415,7 +442,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -424,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149678202,
             "language": "C",
             "last_commit": "2026-08-17T00:39:04Z",
             "owner": "surge-synthesizer",
@@ -438,11 +466,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 337847095,
             "language": "C++",
             "last_commit": "2023-05-25T04:09:10Z",
             "owner": "mtytel",
             "repo": "vital",
-            "stars": 2108
+            "stars": 2110
           }
         },
         {
@@ -452,18 +481,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 586660640,
             "language": "C++",
             "last_commit": "2025-08-24T16:25:20Z",
             "owner": "tote-bag-labs",
             "repo": "valentine",
-            "stars": 192
+            "stars": 193
           }
         }
       ],
       "title": "Exemplary open source audio plug-in projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -472,11 +502,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 320636477,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T19:32:54Z",
+            "last_commit": "2026-08-19T11:35:33Z",
             "owner": "WebKit",
             "repo": "WebKit",
-            "stars": 10080
+            "stars": 10082
           }
         },
         {
@@ -486,11 +517,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4228314,
             "language": "C++",
             "last_commit": "2026-08-17T10:39:04Z",
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6691
+            "stars": 6692
           }
         },
         {
@@ -500,6 +532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65670631,
             "language": "C++",
             "last_commit": "2026-08-18T11:33:45Z",
             "owner": "BespokeSynth",
@@ -514,6 +547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73756539,
             "language": "C++",
             "last_commit": "2025-11-04T08:47:14Z",
             "owner": "VCVRack",
@@ -528,11 +562,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14973783,
             "language": "C++",
             "last_commit": "2026-07-25T14:14:30Z",
             "owner": "asb2m10",
             "repo": "dexed",
-            "stars": 3468
+            "stars": 3469
           }
         },
         {
@@ -542,6 +577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96639244,
             "language": "Swift",
             "last_commit": "2022-03-14T16:12:43Z",
             "owner": "AudioKit",
@@ -556,8 +592,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18047592,
             "language": "C",
-            "last_commit": "2026-08-14T14:52:49Z",
+            "last_commit": "2026-08-19T12:22:13Z",
             "owner": "csound",
             "repo": "csound",
             "stars": 1501
@@ -570,11 +607,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156860418,
             "language": "C++",
             "last_commit": "2026-08-03T21:30:59Z",
             "owner": "Tracktion",
             "repo": "tracktion_engine",
-            "stars": 1426
+            "stars": 1427
           }
         },
         {
@@ -584,11 +622,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118393739,
             "language": "C++",
             "last_commit": "2026-08-16T17:10:40Z",
             "owner": "airwindows",
             "repo": "airwindows",
-            "stars": 1202
+            "stars": 1203
           }
         },
         {
@@ -598,6 +637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39728090,
             "language": "C++",
             "last_commit": "2024-02-26T10:06:47Z",
             "owner": "pierreguillot",
@@ -612,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266307038,
             "language": "C++",
             "last_commit": "2026-08-16T11:45:29Z",
             "owner": "Tracktion",
@@ -626,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 295217582,
             "language": "C++",
             "last_commit": "2026-07-15T17:32:14Z",
             "owner": "sophiapoirier",
@@ -640,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107114418,
             "language": "C++",
             "last_commit": "2024-08-21T09:22:33Z",
             "owner": "NativeInstruments",
@@ -654,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14503532,
             "language": "C++",
             "last_commit": "2014-10-27T18:30:00Z",
             "owner": "2DaT",
@@ -665,7 +709,7 @@
       "title": "Miscellaneous open source audio code/projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -674,11 +718,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156939672,
             "language": "C++",
-            "last_commit": "2026-08-18T19:20:33Z",
+            "last_commit": "2026-08-19T07:39:55Z",
             "owner": "microsoft",
             "repo": "onnxruntime",
-            "stars": 21398
+            "stars": 21399
           }
         },
         {
@@ -688,11 +733,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163906234,
             "language": "Python",
             "last_commit": "2026-07-20T00:03:11Z",
             "owner": "sdatkinson",
             "repo": "neural-amp-modeler",
-            "stars": 2959
+            "stars": 2963
           }
         },
         {
@@ -702,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 304395686,
             "language": "C++",
             "last_commit": "2026-07-22T00:08:30Z",
             "owner": "jatinchowdhury18",
@@ -716,6 +763,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 692856370,
             "language": "C++",
             "last_commit": "2025-07-28T14:14:50Z",
             "owner": "Torsion-Audio",
@@ -727,7 +775,7 @@
       "title": "Machine Learning"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -736,11 +784,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12383220,
             "language": "C++",
             "last_commit": "2023-12-13T18:32:04Z",
             "owner": "pichenettes",
             "repo": "eurorack",
-            "stars": 3160
+            "stars": 3161
           }
         },
         {
@@ -750,6 +799,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 77694808,
             "language": "C++",
             "last_commit": "2023-09-01T21:13:56Z",
             "owner": "EleonoreMizo",
@@ -764,6 +814,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24825001,
             "language": "C++",
             "last_commit": "2019-06-15T20:23:09Z",
             "owner": "olilarkin",
@@ -773,16 +824,12 @@
         }
       ],
       "title": "Hardware/embedded"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:35:55.326Z",
+    "last_updated": "2026-08-19T12:44:31.464Z",
     "original_repository": "olilarkin/awesome-musicdsp",
+    "original_repository_id": 128105860,
     "original_repository_sha": "ff2187536d494427a20385c57580037f8e3869a1",
     "enhanced_repository": "enhansome/enhansome-musicdsp",
     "enhanced_repository_description": null,
