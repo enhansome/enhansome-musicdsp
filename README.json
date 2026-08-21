@@ -12,10 +12,10 @@
             "archived": false,
             "id": 3884981,
             "language": "C++",
-            "last_commit": "2026-08-20T15:31:22Z",
+            "last_commit": "2026-08-21T11:03:09Z",
             "owner": "juce-framework",
             "repo": "JUCE",
-            "stars": 8797
+            "stars": 8800
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-11T14:32:40Z",
             "owner": "steinbergmedia",
             "repo": "vst3sdk",
-            "stars": 2332
+            "stars": 2333
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-16T16:31:19Z",
             "owner": "sudara",
             "repo": "pamplejuce",
-            "stars": 757
+            "stars": 756
           }
         },
         {
@@ -225,7 +225,7 @@
             "archived": false,
             "id": 109459331,
             "language": "C++",
-            "last_commit": "2026-08-20T07:05:27Z",
+            "last_commit": "2026-08-21T00:27:32Z",
             "owner": "cycfi",
             "repo": "q",
             "stars": 1417
@@ -243,7 +243,7 @@
             "last_commit": "2026-05-30T16:45:56Z",
             "owner": "leomccormack",
             "repo": "Spatial_Audio_Framework",
-            "stars": 743
+            "stars": 741
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2026-07-22T15:59:29Z",
             "owner": "AlexHarker",
             "repo": "HISSTools_Library",
-            "stars": 56
+            "stars": 57
           }
         }
       ],
@@ -384,7 +384,7 @@
             "last_commit": "2026-06-23T13:03:03Z",
             "owner": "olilarkin",
             "repo": "librosa.cpp",
-            "stars": 51
+            "stars": 53
           }
         }
       ],
@@ -456,7 +456,7 @@
             "last_commit": "2026-08-17T00:39:04Z",
             "owner": "surge-synthesizer",
             "repo": "surge",
-            "stars": 3974
+            "stars": 3976
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2023-05-25T04:09:10Z",
             "owner": "mtytel",
             "repo": "vital",
-            "stars": 2111
+            "stars": 2106
           }
         },
         {
@@ -504,10 +504,10 @@
             "archived": false,
             "id": 320636477,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T19:39:25Z",
+            "last_commit": "2026-08-21T19:01:36Z",
             "owner": "WebKit",
             "repo": "WebKit",
-            "stars": 10085
+            "stars": 10089
           }
         },
         {
@@ -519,10 +519,10 @@
             "archived": false,
             "id": 4228314,
             "language": "C++",
-            "last_commit": "2026-08-17T10:39:04Z",
+            "last_commit": "2026-08-20T21:07:16Z",
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6693
+            "stars": 6694
           }
         },
         {
@@ -537,7 +537,7 @@
             "last_commit": "2026-08-18T11:33:45Z",
             "owner": "BespokeSynth",
             "repo": "BespokeSynth",
-            "stars": 4692
+            "stars": 4691
           }
         },
         {
@@ -567,7 +567,7 @@
             "last_commit": "2026-07-25T14:14:30Z",
             "owner": "asb2m10",
             "repo": "dexed",
-            "stars": 3472
+            "stars": 3473
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2026-08-19T12:22:13Z",
             "owner": "csound",
             "repo": "csound",
-            "stars": 1502
+            "stars": 1501
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2026-08-03T21:30:59Z",
             "owner": "Tracktion",
             "repo": "tracktion_engine",
-            "stars": 1427
+            "stars": 1429
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2026-08-16T17:10:40Z",
             "owner": "airwindows",
             "repo": "airwindows",
-            "stars": 1204
+            "stars": 1203
           }
         },
         {
@@ -657,7 +657,7 @@
             "last_commit": "2026-08-16T11:45:29Z",
             "owner": "Tracktion",
             "repo": "choc",
-            "stars": 854
+            "stars": 855
           }
         },
         {
@@ -720,10 +720,10 @@
             "archived": false,
             "id": 156939672,
             "language": "C++",
-            "last_commit": "2026-08-20T19:38:58Z",
+            "last_commit": "2026-08-21T18:51:34Z",
             "owner": "microsoft",
             "repo": "onnxruntime",
-            "stars": 21410
+            "stars": 21414
           }
         },
         {
@@ -738,7 +738,7 @@
             "last_commit": "2026-07-20T00:03:11Z",
             "owner": "sdatkinson",
             "repo": "neural-amp-modeler",
-            "stars": 2969
+            "stars": 2972
           }
         },
         {
@@ -753,7 +753,7 @@
             "last_commit": "2026-08-20T13:42:01Z",
             "owner": "jatinchowdhury18",
             "repo": "RTNeural",
-            "stars": 837
+            "stars": 836
           }
         },
         {
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:40:38.674Z",
+    "last_updated": "2026-08-21T19:33:35.491Z",
     "original_repository": "olilarkin/awesome-musicdsp",
     "original_repository_id": 128105860,
     "original_repository_sha": "ff2187536d494427a20385c57580037f8e3869a1",
