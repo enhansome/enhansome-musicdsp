@@ -28,7 +28,7 @@ If you want to create a robust cross-platform audio plug-in, there is a lot more
 * [pamplejuce](https://github.com/sudara/pamplejuce) ⭐ 756 | 🐛 26 | 🌐 C++ | 📅 2026-08-16 - An excellent template for JUCE projects.
 * [JUCECmakeRepoPrototype](https://github.com/eyalamirmusic/JUCECmakeRepoPrototype) ⭐ 295 | 🐛 4 | 🌐 CMake | 📅 2025-12-04 - Eyal Amir also has one which looks good!
 * [wolfsound - audio-plugin-template](https://github.com/JanWilczek/audio-plugin-template) ⭐ 212 | 🐛 1 | 🌐 CMake | 📅 2026-01-23 - Jan Wilczek has made another excellent JUCE template
-* [iPlug2OOS](https://github.com/iPlug2/iPlug2OOS) ⭐ 152 | 🐛 4 | 🌐 Python | 📅 2026-08-01 - Continuing the theme of self-promotion, here is the latest and greatest iPlug2 template project, set up with CI/CD, installer scripts, github workspaces etc.
+* [iPlug2OOS](https://github.com/iPlug2/iPlug2OOS) ⭐ 153 | 🐛 4 | 🌐 Python | 📅 2026-08-01 - Continuing the theme of self-promotion, here is the latest and greatest iPlug2 template project, set up with CI/CD, installer scripts, github workspaces etc.
 * [Brad Howes AUv3 Template](https://github.com/bradhowes/AUv3Template) ⭐ 32 | 🐛 0 | 🌐 Swift | 📅 2026-06-25 - A template for iOS/macOS AUv3 projects
 
 ## UI Frameworks
@@ -39,7 +39,7 @@ If you want to create a robust cross-platform audio plug-in, there is a lot more
 
 ## DSP Libraries
 
-* [Q](https://github.com/cycfi/Q) ⭐ 1,417 | 🐛 0 | 🌐 C++ | 📅 2026-08-23 - A very nice looking modern C++ DSP library with concise examples
+* [Q](https://github.com/cycfi/Q) ⭐ 1,418 | 🐛 0 | 🌐 C++ | 📅 2026-08-23 - A very nice looking modern C++ DSP library with concise examples
 * [Spatial Audio Framework](https://github.com/leomccormack/Spatial_Audio_Framework) ⭐ 742 | 🐛 4 | 🌐 C | 📅 2026-05-30 - Another excellent library for ambisonics and other spatial audio related processing
 * [Gamma](https://github.com/LancePutnam/Gamma) ⭐ 498 | 🐛 7 | 🌐 C++ | 📅 2026-08-02 - Gamma is a very awesome C++ DSP library by Lance Putnam. The beauty of Gamma is the conciseness of the implementation of certain techniques. How about [this](https://github.com/LancePutnam/Gamma/blob/master/examples/spectral/STFT.cpp) ⭐ 498 | 🐛 7 | 🌐 C++ | 📅 2026-08-02 for a concise STFT example.
 * [WDL](https://github.com/justinfrankel/WDL) ⭐ 479 | 🐛 17 | 🌐 C | 📅 2026-08-14 - WDL is Cockos' library of reusable C++ code, that is used to make the DAW Reaper, amongst other things. It includes open source implementations of many useful things such as resampling and convolution, although there is next to no documentation and the code is difficult to understand. For more info about the various parts of WDL (which can be used independently), check [the Cockos site](https://www.cockos.com/wdl/)
@@ -54,7 +54,7 @@ If you want to create a robust cross-platform audio plug-in, there is a lot more
 ## Music Information Retrieval Libraries (C/C++)
 
 * [essentia](https://github.com/MTG/essentia) ⭐ 3,700 | 🐛 425 | 🌐 C++ | 📅 2026-07-22 - Essentia is a huge collection of MIR algorithms that you can use to extract high and low level features from audio. AGPL3 license. Somewhat painful to build cross-platform.
-* [audioflux](https://github.com/libAudioFlux/audioFlux) ⭐ 3,349 | 🐛 16 | 🌐 C | 📅 2026-03-06 - AudioFlux is a new-kid-on the block and some what similar but looks designed for deep learning, it looks very promising and has a liberal (MIT) license.
+* [audioflux](https://github.com/libAudioFlux/audioFlux) ⭐ 3,350 | 🐛 16 | 🌐 C | 📅 2026-03-06 - AudioFlux is a new-kid-on the block and some what similar but looks designed for deep learning, it looks very promising and has a liberal (MIT) license.
 * [librosa.cpp](https://github.com/olilarkin/librosa.cpp) ⭐ 53 | 🐛 0 | 🌐 C++ | 📅 2026-06-23 - Librosa is a widely used Python library for MIR tasks. With a little help from my agents, i've systematically ported it to a C++ library with WASM and Swift Package to boot.
 
 ## Domain Specific Languages (DSLs)
@@ -64,7 +64,7 @@ If you want to create a robust cross-platform audio plug-in, there is a lot more
 
 ## Filter design
 
-* [DSPFilters](https://github.com/vinniefalco/DSPFilters) ⭐ 2,069 | 🐛 39 | 🌐 C++ | 📅 2023-08-05 - Vinno Falco made this excellent MIT licensed IIR filter library. [Here](https://github.com/olilarkin/DSPFilters) ⭐ 13 | 🐛 0 | 🌐 C++ | 📅 2020-09-24 is a fork to work with the latest JUCE. See also [iir1](https://github.com/berndporr/iir1) ⭐ 779 | 🐛 0 | 🌐 C++ | 📅 2025-07-07, which seems a further developed and improved version.
+* [DSPFilters](https://github.com/vinniefalco/DSPFilters) ⭐ 2,069 | 🐛 39 | 🌐 C++ | 📅 2023-08-05 - Vinno Falco made this excellent MIT licensed IIR filter library. [Here](https://github.com/olilarkin/DSPFilters) ⭐ 13 | 🐛 0 | 🌐 C++ | 📅 2020-09-24 is a fork to work with the latest JUCE. See also [iir1](https://github.com/berndporr/iir1) ⭐ 780 | 🐛 0 | 🌐 C++ | 📅 2025-07-07, which seems a further developed and improved version.
 * [Filter Playground](https://smus.com/filter-playground) - A nice blog post and [web audio tool](https://borismus.github.io/filter-playground/) demonstrating IIR filters
 * [MicroModeler Filter Design Tool](https://www.micromodeler.com) - An excellent web based filter design tool
 * [RBJ Cookbook](https://webaudio.github.io/Audio-EQ-Cookbook/audio-eq-cookbook.html) - HTML version of Robert Bristow-Johnson's EQ cookbook
@@ -117,15 +117,15 @@ These are the software tools that I find useful in my audio programming.
 
 ## Miscellaneous open source audio code/projects
 
-* [Webkit's Web Audio API](https://github.com/WebKit/WebKit/tree/main/Source/WebCore/Modules/webaudio) ⭐ 10,095 | 🐛 2,607 | 🌐 JavaScript | 📅 2026-08-24 - This is the C++ code for WebKit's implementation of the Web Audio API, as used in Safari.
-* [supercollider](https://github.com/supercollider/supercollider) ⭐ 6,699 | 🐛 1,093 | 🌐 C++ | 📅 2026-08-20 - Likewise, but make sure you look at the scsynth part for DSP stuff.
-* [BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) ⭐ 4,695 | 🐛 356 | 🌐 C++ | 📅 2026-08-18 - A pretty amazing modular synth/composition environment with nice real-time visualisation, loads of modules, and lots of flexibility
-* [vcvrack](https://github.com/VCVRack/Rack) ⭐ 4,406 | 🐛 307 | 🌐 C++ | 📅 2025-11-04 - Whilst the other items in this list have been around a while and have somewhat arcane code-bases, this is pretty new and the API is very clean and simple. I think making a VCVRack module it is a great way to get into audio programming.
+* [Webkit's Web Audio API](https://github.com/WebKit/WebKit/tree/main/Source/WebCore/Modules/webaudio) ⭐ 10,095 | 🐛 2,616 | 🌐 JavaScript | 📅 2026-08-24 - This is the C++ code for WebKit's implementation of the Web Audio API, as used in Safari.
+* [supercollider](https://github.com/supercollider/supercollider) ⭐ 6,700 | 🐛 1,093 | 🌐 C++ | 📅 2026-08-20 - Likewise, but make sure you look at the scsynth part for DSP stuff.
+* [BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) ⭐ 4,696 | 🐛 356 | 🌐 C++ | 📅 2026-08-18 - A pretty amazing modular synth/composition environment with nice real-time visualisation, loads of modules, and lots of flexibility
+* [vcvrack](https://github.com/VCVRack/Rack) ⭐ 4,405 | 🐛 307 | 🌐 C++ | 📅 2025-11-04 - Whilst the other items in this list have been around a while and have somewhat arcane code-bases, this is pretty new and the API is very clean and simple. I think making a VCVRack module it is a great way to get into audio programming.
 * [dexed](https://github.com/asb2m10/dexed) ⭐ 3,477 | 🐛 80 | 🌐 C++ | 📅 2026-07-25 - Dexed is a JUCE frontend to [Raph Levien's "Music Synthesier For Android"](https://github.com/google/music-synthesizer-for-android) ⚠️ Archived, which is an excellent DX7 emulation. Also [ported to work on the web as a WebAudioModule](http://www.webaudiomodules.org/wamsynths/dexed)
 * [AudioKit SynthOne](https://github.com/AudioKit/AudioKitSynthOne) ⭐ 1,787 | 🐛 26 | 🌐 Swift | 📅 2022-03-14 - SynthOne is a great open source project built using Audiokit,  that will be very interesting to anyone looking to build an iOS synthesiser.
 * [csound](https://github.com/csound/csound) ⭐ 1,502 | 🐛 29 | 🌐 C | 📅 2026-08-19 - CSound is still going strong after many years. It can also be used as an embeddable DSP library. There is a [Web IDE](https://ide.csound.com), which is a great way to play with interesting scores/orchestras/UDOs that you find on the web and [Cabbage](https://cabbageaudio.com/) lets you make plug-ins based on CSound orchestras.
-* [tracktion engine](https://github.com/Tracktion/tracktion_engine) ⭐ 1,429 | 🐛 40 | 🌐 C++ | 📅 2026-08-24 - Source code for an entire DAW engine, using modern C++. An amazing resource for learning all sorts of things including how to structure and architect large audio projects. GPL/Commercial license.
-* [AirWindows Plugins](https://github.com/airwindows/airwindows) ⭐ 1,206 | 🐛 33 | 🌐 C++ | 📅 2026-08-23 - A large collection of GUI-less plug-ins open source but supported via patreon [see airwindows site](http://www.airwindows.com/)
+* [tracktion engine](https://github.com/Tracktion/tracktion_engine) ⭐ 1,429 | 🐛 37 | 🌐 C++ | 📅 2026-08-24 - Source code for an entire DAW engine, using modern C++. An amazing resource for learning all sorts of things including how to structure and architect large audio projects. GPL/Commercial license.
+* [AirWindows Plugins](https://github.com/airwindows/airwindows) ⭐ 1,207 | 🐛 33 | 🌐 C++ | 📅 2026-08-23 - A large collection of GUI-less plug-ins open source but supported via patreon [see airwindows site](http://www.airwindows.com/)
 * [puredata](http://msp.ucsd.edu/software.html) - Pd is a really nice cross platform dataflow programming environment. Also check out [libpd](https://github.com/libpd), which you can use as an embeddable DSP runtime in your C++ audio plug-in etc. [Camomille](https://github.com/pierreguillot/Camomile) ⭐ 989 | 🐛 36 | 🌐 C++ | 📅 2024-02-26 combines libpd with JUCE to let you make plug-ins based on Pd patches. [plugdata](https://github.com/plugdata-team/plugdata) ⭐ 2,313 | 🐛 237 | 🌐 C | 📅 2026-08-24 is an excellent new effort to make PD run as a plug-in with a fresh new UI built with JUCE.
 * [choc](https://github.com/Tracktion/choc) ⭐ 855 | 🐛 15 | 🌐 C++ | 📅 2026-08-16 - From the creator of JUCE comes CHOC, an ISC licensed library of Classy Header-Only Classes. Including some useful audio related utilities
 * [destroyfx](https://github.com/sophiapoirier/destroyfx) ⭐ 268 | 🐛 7 | 🌐 C++ | 📅 2026-07-15 - A brilliant collection of open source plug-ins that are very original have been around since the dawn of VST.
@@ -138,8 +138,8 @@ These are the software tools that I find useful in my audio programming.
 
 ## Machine Learning
 
-* [ONNXRuntime](https://github.com/microsoft/onnxruntime) ⭐ 21,621 | 🐛 1,614 | 🌐 C++ | 📅 2026-08-24 - Microsoft's ONNX Runtime is a ML inference engine that is well documented, performant, and customizable. [Here](https://github.com/olilarkin/iPlug2OnnxRuntime) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2023-12-02 is an iPlug2 example that I prepared that integrates onnxruntime into an audio plugin, using [ort-builder](https://github.com/olilarkin/ort-builder) ⭐ 78 | 🐛 6 | 🌐 C++ | 📅 2025-04-22 - another project that I made in order to build custom, slimmed down static libraries for the onnxruntime
-* [NeuralAmpModeler](https://github.com/sdatkinson/neural-amp-modeler) ⭐ 2,981 | 🐛 32 | 🌐 Python | 📅 2026-08-23 - A similar project, which is also very cool - plug-in built with iPlug2!
+* [ONNXRuntime](https://github.com/microsoft/onnxruntime) ⭐ 21,623 | 🐛 1,606 | 🌐 C++ | 📅 2026-08-24 - Microsoft's ONNX Runtime is a ML inference engine that is well documented, performant, and customizable. [Here](https://github.com/olilarkin/iPlug2OnnxRuntime) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2023-12-02 is an iPlug2 example that I prepared that integrates onnxruntime into an audio plugin, using [ort-builder](https://github.com/olilarkin/ort-builder) ⭐ 78 | 🐛 6 | 🌐 C++ | 📅 2025-04-22 - another project that I made in order to build custom, slimmed down static libraries for the onnxruntime
+* [NeuralAmpModeler](https://github.com/sdatkinson/neural-amp-modeler) ⭐ 2,983 | 🐛 32 | 🌐 Python | 📅 2026-08-23 - A similar project, which is also very cool - plug-in built with iPlug2!
 * [RTNeural](https://github.com/jatinchowdhury18/RTNeural) ⭐ 838 | 🐛 18 | 🌐 C++ | 📅 2026-08-20 - A library designed for realtime inference of Neural Network models with audio in mind. Very small when compared to linking a library like OnnxRuntime or libtensorflow.
 * [Torsion Audio's Neural Network Inference Template for Real-Time Cricital Audio Environments](https://github.com/Torsion-Audio/nn-inference-template) ⭐ 134 | 🐛 0 | 🌐 C++ | 📅 2025-07-28 - A great JUCE template for a machine learning based plug-in, set up for libTorch, TFLite, or OnnxRuntime, including code to help you offload inference onto a separate thread.
 * [GuitarML](https://github.com/GuitarML) - Very cool project building open source guitar fx/amp simulations using machine learning techniques.

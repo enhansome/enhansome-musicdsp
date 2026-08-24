@@ -141,7 +141,7 @@
             "last_commit": "2026-08-01T00:48:09Z",
             "owner": "iPlug2",
             "repo": "iPlug2OOS",
-            "stars": 152
+            "stars": 153
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-08-23T13:27:20Z",
             "owner": "cycfi",
             "repo": "q",
-            "stars": 1417
+            "stars": 1418
           }
         },
         {
@@ -369,7 +369,7 @@
             "last_commit": "2026-03-06T04:12:17Z",
             "owner": "libAudioFlux",
             "repo": "audioFlux",
-            "stars": 3349
+            "stars": 3350
           }
         },
         {
@@ -546,7 +546,7 @@
             "archived": false,
             "id": 320636477,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T12:48:13Z",
+            "last_commit": "2026-08-24T19:30:50Z",
             "owner": "WebKit",
             "repo": "WebKit",
             "stars": 10095
@@ -564,7 +564,7 @@
             "last_commit": "2026-08-20T21:07:16Z",
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6699
+            "stars": 6700
           }
         },
         {
@@ -579,7 +579,7 @@
             "last_commit": "2026-08-18T11:33:45Z",
             "owner": "BespokeSynth",
             "repo": "BespokeSynth",
-            "stars": 4695
+            "stars": 4696
           }
         },
         {
@@ -594,7 +594,7 @@
             "last_commit": "2025-11-04T08:47:14Z",
             "owner": "VCVRack",
             "repo": "Rack",
-            "stars": 4406
+            "stars": 4405
           }
         },
         {
@@ -651,7 +651,7 @@
             "archived": false,
             "id": 156860418,
             "language": "C++",
-            "last_commit": "2026-08-24T13:13:21Z",
+            "last_commit": "2026-08-24T19:03:29Z",
             "owner": "Tracktion",
             "repo": "tracktion_engine",
             "stars": 1429
@@ -669,7 +669,7 @@
             "last_commit": "2026-08-23T08:58:45Z",
             "owner": "airwindows",
             "repo": "airwindows",
-            "stars": 1206
+            "stars": 1207
           }
         },
         {
@@ -762,10 +762,10 @@
             "archived": false,
             "id": 156939672,
             "language": "C++",
-            "last_commit": "2026-08-24T13:49:51Z",
+            "last_commit": "2026-08-24T19:14:47Z",
             "owner": "microsoft",
             "repo": "onnxruntime",
-            "stars": 21621
+            "stars": 21623
           }
         },
         {
@@ -780,7 +780,7 @@
             "last_commit": "2026-08-23T01:38:28Z",
             "owner": "sdatkinson",
             "repo": "neural-amp-modeler",
-            "stars": 2981
+            "stars": 2983
           }
         },
         {
@@ -869,7 +869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:59:48.509Z",
+    "last_updated": "2026-08-24T19:39:06.901Z",
     "original_repository": "olilarkin/awesome-musicdsp",
     "original_repository_id": 128105860,
     "original_repository_sha": "ff2187536d494427a20385c57580037f8e3869a1",
