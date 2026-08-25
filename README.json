@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T11:03:09Z",
             "owner": "juce-framework",
             "repo": "JUCE",
-            "stars": 8808
+            "stars": 8813
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-11T14:32:40Z",
             "owner": "steinbergmedia",
             "repo": "vst3sdk",
-            "stars": 2335
+            "stars": 2336
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-06-13T22:38:53Z",
             "owner": "cycfi",
             "repo": "elements",
-            "stars": 3722
+            "stars": 3721
           }
         },
         {
@@ -285,7 +285,7 @@
             "archived": false,
             "id": 7949127,
             "language": "C++",
-            "last_commit": "2026-08-22T21:52:35Z",
+            "last_commit": "2026-08-25T07:41:20Z",
             "owner": "madrona-labs",
             "repo": "madronalib",
             "stars": 335
@@ -354,7 +354,7 @@
             "last_commit": "2026-07-22T07:45:39Z",
             "owner": "MTG",
             "repo": "essentia",
-            "stars": 3701
+            "stars": 3702
           }
         },
         {
@@ -402,10 +402,10 @@
             "archived": false,
             "id": 72926839,
             "language": "C++",
-            "last_commit": "2026-08-24T08:48:23Z",
+            "last_commit": "2026-08-25T14:26:43Z",
             "owner": "grame-cncm",
             "repo": "faust",
-            "stars": 3134
+            "stars": 3136
           }
         }
       ],
@@ -447,7 +447,7 @@
             "last_commit": "2023-11-21T15:07:11Z",
             "owner": "lava",
             "repo": "matplotlib-cpp",
-            "stars": 4770
+            "stars": 4771
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2023-05-25T04:09:10Z",
             "owner": "mtytel",
             "repo": "vital",
-            "stars": 2108
+            "stars": 2109
           }
         },
         {
@@ -546,10 +546,10 @@
             "archived": false,
             "id": 320636477,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T05:18:09Z",
+            "last_commit": "2026-08-25T19:35:39Z",
             "owner": "WebKit",
             "repo": "WebKit",
-            "stars": 10095
+            "stars": 10094
           }
         },
         {
@@ -564,7 +564,7 @@
             "last_commit": "2026-08-20T21:07:16Z",
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6701
+            "stars": 6703
           }
         },
         {
@@ -594,7 +594,7 @@
             "last_commit": "2025-11-04T08:47:14Z",
             "owner": "VCVRack",
             "repo": "Rack",
-            "stars": 4405
+            "stars": 4407
           }
         },
         {
@@ -609,7 +609,7 @@
             "last_commit": "2026-07-25T14:14:30Z",
             "owner": "asb2m10",
             "repo": "dexed",
-            "stars": 3477
+            "stars": 3478
           }
         },
         {
@@ -651,7 +651,7 @@
             "archived": false,
             "id": 156860418,
             "language": "C++",
-            "last_commit": "2026-08-24T22:46:46Z",
+            "last_commit": "2026-08-25T16:09:51Z",
             "owner": "Tracktion",
             "repo": "tracktion_engine",
             "stars": 1429
@@ -762,10 +762,10 @@
             "archived": false,
             "id": 156939672,
             "language": "C++",
-            "last_commit": "2026-08-25T05:37:20Z",
+            "last_commit": "2026-08-25T19:12:20Z",
             "owner": "microsoft",
             "repo": "onnxruntime",
-            "stars": 21629
+            "stars": 21638
           }
         },
         {
@@ -780,7 +780,7 @@
             "last_commit": "2026-08-23T01:38:28Z",
             "owner": "sdatkinson",
             "repo": "neural-amp-modeler",
-            "stars": 2983
+            "stars": 2985
           }
         },
         {
@@ -869,7 +869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:56:50.883Z",
+    "last_updated": "2026-08-25T19:41:40.414Z",
     "original_repository": "olilarkin/awesome-musicdsp",
     "original_repository_id": 128105860,
     "original_repository_sha": "ff2187536d494427a20385c57580037f8e3869a1",
