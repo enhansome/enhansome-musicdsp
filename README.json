@@ -10,12 +10,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",
+            "homepage": "https://juce.com",
             "id": 3884981,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T10:01:28Z",
+            "open_issues": 475,
             "owner": "juce-framework",
             "repo": "JUCE",
-            "stars": 8843
+            "stars": 8843,
+            "topics": [
+              "aax",
+              "au",
+              "audio",
+              "audiounit",
+              "auv3",
+              "c-plus-plus",
+              "cpp",
+              "framework",
+              "juce",
+              "plugin",
+              "vst",
+              "vst3"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -26,12 +44,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VST 3 Plug-In SDK",
+            "homepage": null,
             "id": 83790078,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2026-08-11T14:32:40Z",
+            "open_issues": 29,
             "owner": "steinbergmedia",
             "repo": "vst3sdk",
-            "stars": 2339
+            "stars": 2339,
+            "topics": [
+              "audio",
+              "ios",
+              "linux",
+              "macos",
+              "plugins",
+              "sdk",
+              "vst3",
+              "win32"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -42,12 +74,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Enhanced version of Cockos' iPlug - A simple-to-use C++ framework for developing cross platform audio plugins and targeting multiple plugin APIs with the same code. VST / VST3 / Audiounit / RTAS / AAX (Native) formats supported. NOTE: THIS IS OBSOLETE, PLEASE SEE IPLUG2: ",
+            "homepage": "https://github.com/iplug2",
             "id": 2815741,
             "language": "C",
+            "license": null,
             "last_commit": "2021-12-19T10:12:28Z",
+            "open_issues": 27,
             "owner": "olilarkin",
             "repo": "wdl-ol",
-            "stars": 942
+            "stars": 942,
+            "topics": [
+              "aax",
+              "audio",
+              "audiounit",
+              "c-plus-plus",
+              "plugin",
+              "vst",
+              "vst3"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -58,12 +103,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DISTRHO Plugin Framework",
+            "homepage": null,
             "id": 19712950,
             "language": "C++",
+            "license": "ISC",
             "last_commit": "2026-08-22T13:36:25Z",
+            "open_issues": 79,
             "owner": "DISTRHO",
             "repo": "DPF",
-            "stars": 859
+            "stars": 859,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -74,12 +124,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C wrapper for VST3, AUv2, CLAP audio plugin formats",
+            "homepage": null,
             "id": 761524337,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-04T05:21:14Z",
+            "open_issues": 6,
             "owner": "Tremus",
             "repo": "CPLUG",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "audio-unit",
+              "clap",
+              "vst3"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         }
@@ -96,12 +155,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JUCE audio plugin template. JUCE 8, Catch2, Pluginval, macOS notarization, Azure Trusted Signing, Github Actions",
+            "homepage": "https://melatonin.dev/manuals/pamplejuce",
             "id": 303402467,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-16T16:31:19Z",
+            "open_issues": 26,
             "owner": "sudara",
             "repo": "pamplejuce",
-            "stars": 756
+            "stars": 756,
+            "topics": [
+              "audio",
+              "catch2",
+              "cmake",
+              "code-signing",
+              "juce",
+              "juce-framework",
+              "plugin",
+              "template"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -112,12 +185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A prototype to model a way to create an entire repo using JUCE and CMake.",
+            "homepage": null,
             "id": 239257598,
             "language": "CMake",
+            "license": null,
             "last_commit": "2025-12-04T21:32:57Z",
+            "open_issues": 4,
             "owner": "eyalamirmusic",
             "repo": "JUCECmakeRepoPrototype",
-            "stars": 295
+            "stars": 295,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -128,12 +206,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template repository that you can use for creating audio plugins with the JUCE C++ framework. It is based on CMake, uses CPM package manager, the JUCE C++ framework (obviously), and the GoogleTest framework. All of these are easy to change on demand. You can also base off your new repo off this template because the setup is very simple.",
+            "homepage": null,
             "id": 668379174,
             "language": "CMake",
+            "license": "Unlicense",
             "last_commit": "2026-01-23T11:41:11Z",
+            "open_issues": 1,
             "owner": "JanWilczek",
             "repo": "audio-plugin-template",
-            "stars": 212
+            "stars": 212,
+            "topics": [
+              "aax",
+              "audio",
+              "audio-plugin",
+              "audio-plugins",
+              "audio-processing",
+              "audio-unit",
+              "cmake",
+              "cpp",
+              "juce",
+              "juce-framework",
+              "juce-plugin",
+              "vst3"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -144,12 +240,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template to build an iPlug2 project with CI/CD and publish a WAM to github pages",
+            "homepage": "https://iplug2.github.io/iPlug2OOS/",
             "id": 237939972,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-01T00:48:09Z",
+            "open_issues": 4,
             "owner": "iPlug2",
             "repo": "iPlug2OOS",
-            "stars": 155
+            "stars": 155,
+            "topics": [
+              "actions",
+              "audiounit",
+              "clap",
+              "codespaces",
+              "iplug2",
+              "plug-ins",
+              "vst",
+              "vst3",
+              "wam"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -160,12 +271,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template project for new AUv3 effects in iOS and macOS",
+            "homepage": null,
             "id": 342503737,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-06-25T15:59:20Z",
+            "open_issues": 0,
             "owner": "bradhowes",
             "repo": "AUv3Template",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         }
@@ -182,12 +298,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elements C++ GUI library",
+            "homepage": "http://cycfi.github.io/elements/",
             "id": 54825678,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-06-13T22:38:53Z",
+            "open_issues": 41,
             "owner": "cycfi",
             "repo": "elements",
-            "stars": 3720
+            "stars": 3720,
+            "topics": [
+              "c-plus-plus",
+              "cpp",
+              "cpp17",
+              "cpp17-library",
+              "gui",
+              "modern-cpp"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -198,12 +326,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A user interface toolkit mainly for audio plug-ins",
+            "homepage": null,
             "id": 48168902,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-09T15:28:29Z",
+            "open_issues": 36,
             "owner": "steinbergmedia",
             "repo": "vstgui",
-            "stars": 1089
+            "stars": 1089,
+            "topics": [
+              "aax",
+              "audiounit",
+              "plugins",
+              "ui-library",
+              "vst3",
+              "vstgui"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -214,12 +354,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal portable API for embeddable GUIs",
+            "homepage": "https://gitlab.com/lv2/pugl/",
             "id": 46066978,
             "language": "C",
+            "license": "ISC",
             "last_commit": "2026-04-15T15:34:02Z",
+            "open_issues": 18,
             "owner": "lv2",
             "repo": "pugl",
-            "stars": 213
+            "stars": 213,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         }
@@ -236,12 +381,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ Library for Audio Digital Signal Processing",
+            "homepage": null,
             "id": 109459331,
             "language": "C++",
+            "license": "BSL-1.0",
             "last_commit": "2026-08-27T07:13:58Z",
+            "open_issues": 0,
             "owner": "cycfi",
             "repo": "q",
-            "stars": 1418
+            "stars": 1418,
+            "topics": [
+              "audio",
+              "audio-processing",
+              "c-plus-plus",
+              "cpp",
+              "cpp-library",
+              "cpp20",
+              "dsp",
+              "dsp-library",
+              "effects",
+              "frequency",
+              "function-composition",
+              "guitar-processor",
+              "modern-cpp",
+              "music",
+              "pitch-detection",
+              "pitch-tracking",
+              "synth"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -252,12 +420,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform framework for developing spatial audio algorithms and software in C/C++",
+            "homepage": "https://leomccormack.github.io/Spatial_Audio_Framework/",
             "id": 128790913,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-30T16:45:56Z",
+            "open_issues": 4,
             "owner": "leomccormack",
             "repo": "Spatial_Audio_Framework",
-            "stars": 742
+            "stars": 742,
+            "topics": [
+              "3d-audio",
+              "ambisonics",
+              "microphone-array-processing",
+              "multi-source-tracking",
+              "sofa-reader",
+              "spatial-audio",
+              "spatial-audio-framework",
+              "spherical-harmonics",
+              "vbap"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -268,12 +451,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generic (Sound) Synthesis Library ",
+            "homepage": null,
             "id": 4826737,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-02T14:15:05Z",
+            "open_issues": 7,
             "owner": "LancePutnam",
             "repo": "Gamma",
-            "stars": 498
+            "stars": 498,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -284,12 +472,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WDL (by Cockos) mirror",
+            "homepage": "http://www.cockos.com/wdl",
             "id": 13956578,
             "language": "C",
+            "license": null,
             "last_commit": "2026-08-27T20:24:40Z",
+            "open_issues": 17,
             "owner": "justinfrankel",
             "repo": "WDL",
-            "stars": 479
+            "stars": 479,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -300,12 +493,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Madronalib: a C++ framework for DSP applications.",
+            "homepage": null,
             "id": 7949127,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T00:11:40Z",
+            "open_issues": 0,
             "owner": "madrona-labs",
             "repo": "madronalib",
-            "stars": 335
+            "stars": 335,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -316,12 +514,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":globe_with_meridians: High Order Ambisonics library",
+            "homepage": "http://hoalibrary.mshparisnord.fr/en",
             "id": 28267868,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2019-07-29T19:36:45Z",
+            "open_issues": 2,
             "owner": "CICM",
             "repo": "HoaLibrary-Light",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "ambisonics",
+              "cpp",
+              "header-only",
+              "high-order-ambisonics",
+              "hoa-library",
+              "spatialization"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -332,12 +542,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "simplified cross platform spatial audio framework",
+            "homepage": "https://www.mach1.tech",
             "id": 160861940,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-16T13:09:59Z",
+            "open_issues": 1,
             "owner": "Mach1Studios",
             "repo": "m1-sdk",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "audio",
+              "cross-platform",
+              "framework",
+              "spatial",
+              "spatial-audio",
+              "webaudio"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -348,12 +570,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A C++ Library for DSP ",
+            "homepage": null,
             "id": 168504770,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-22T15:59:29Z",
+            "open_issues": 3,
             "owner": "AlexHarker",
             "repo": "HISSTools_Library",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         }
@@ -370,12 +597,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ library for audio and music analysis, description and synthesis, including Python bindings",
+            "homepage": "http://essentia.upf.edu",
             "id": 10456942,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T18:31:38Z",
+            "open_issues": 435,
             "owner": "MTG",
             "repo": "essentia",
-            "stars": 3708
+            "stars": 3708,
+            "topics": [
+              "audio",
+              "audio-analysis",
+              "c-plus-plus",
+              "dsp",
+              "essentia",
+              "music",
+              "music-information-retrieval",
+              "python",
+              "sound-processing"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -386,12 +628,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for audio and music analysis, feature extraction.",
+            "homepage": "https://audioflux.top",
             "id": 589514195,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-03-06T04:12:17Z",
+            "open_issues": 16,
             "owner": "libAudioFlux",
             "repo": "audioFlux",
-            "stars": 3353
+            "stars": 3353,
+            "topics": [
+              "audio",
+              "audio-analysis",
+              "audio-features",
+              "audio-processing",
+              "deep-learning",
+              "machine-learning",
+              "mfcc",
+              "mir",
+              "music",
+              "music-analysis",
+              "music-information-retrieval",
+              "pitch",
+              "python",
+              "signal-processing",
+              "spectral-analysis",
+              "spectrogram",
+              "time-frequency-analysis",
+              "wavelet-analysis",
+              "wavelet-transform"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -402,12 +669,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++17 port of librosa with wasm and SPM package. Done with agents. YMMV.",
+            "homepage": "https://olilarkin.github.io/librosa.cpp/",
             "id": 1208345977,
             "language": "C++",
+            "license": "ISC",
             "last_commit": "2026-06-23T13:03:03Z",
+            "open_issues": 0,
             "owner": "olilarkin",
             "repo": "librosa.cpp",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "audio-analysis",
+              "audio-analyzer",
+              "beat-tracking",
+              "librosa",
+              "music-information-retrieval",
+              "pitch-detection",
+              "spectrogram",
+              "swift",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         }
@@ -424,12 +706,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functional programming language for signal processing and sound synthesis",
+            "homepage": "http://faust.grame.fr",
             "id": 72926839,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T20:40:07Z",
+            "open_issues": 243,
             "owner": "grame-cncm",
             "repo": "faust",
-            "stars": 3139
+            "stars": 3140,
+            "topics": [
+              "audio",
+              "c",
+              "c-plus-plus",
+              "cmajor",
+              "compiler",
+              "cpp",
+              "csharp",
+              "dlang",
+              "dsp",
+              "faust",
+              "functional-programming",
+              "jax",
+              "jsfx",
+              "julia",
+              "julia-language",
+              "llvm",
+              "rnbo",
+              "rust",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         }
@@ -446,12 +753,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Collection of Useful C++ Classes for Digital Signal Processing",
+            "homepage": null,
             "id": 3630066,
             "language": "C++",
+            "license": null,
             "last_commit": "2023-08-05T21:06:26Z",
+            "open_issues": 39,
             "owner": "vinniefalco",
             "repo": "DSPFilters",
-            "stars": 2069
+            "stars": 2069,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         }
@@ -468,12 +780,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib",
+            "homepage": null,
             "id": 24936365,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-11-21T15:07:11Z",
+            "open_issues": 223,
             "owner": "lava",
             "repo": "matplotlib-cpp",
-            "stars": 4772
+            "stars": 4772,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -484,12 +801,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DSP plots (impulse/frequency/phase response)",
+            "homepage": null,
             "id": 63575599,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-03-05T20:26:35Z",
+            "open_issues": 1,
             "owner": "kfrlib",
             "repo": "dspplot",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -500,12 +822,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template for doing audio DSP visualizations with matplotlib-cpp and rendering to wav from C++ in a jupyter notebook",
+            "homepage": null,
             "id": 234188595,
             "language": "C++",
+            "license": null,
             "last_commit": "2020-01-17T18:01:30Z",
+            "open_issues": 1,
             "owner": "olilarkin",
             "repo": "XeusClingMatplotLibExample",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "cling",
+              "docker",
+              "dsp",
+              "jupyter-notebook",
+              "matplotlib"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         }
@@ -522,12 +855,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Synthesizer plug-in (previously released as Vember Audio Surge)",
+            "homepage": "https://surge-synthesizer.github.io/",
             "id": 149678202,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-17T00:39:04Z",
+            "open_issues": 178,
             "owner": "surge-synthesizer",
             "repo": "surge",
-            "stars": 3983
+            "stars": 3983,
+            "topics": [
+              "audio-units",
+              "synthesizer",
+              "vst3"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -538,12 +880,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spectral warping wavetable synth",
+            "homepage": null,
             "id": 337847095,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2023-05-25T04:09:10Z",
+            "open_issues": 43,
             "owner": "mtytel",
             "repo": "vital",
-            "stars": 2113
+            "stars": 2113,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -554,12 +901,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source compressor meant to pump and breathe",
+            "homepage": null,
             "id": 586660640,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2025-08-24T16:25:20Z",
+            "open_issues": 31,
             "owner": "tote-bag-labs",
             "repo": "valentine",
-            "stars": 193
+            "stars": 193,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         }
@@ -576,12 +928,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.",
+            "homepage": null,
             "id": 320636477,
             "language": "JavaScript",
-            "last_commit": "2026-08-29T01:55:28Z",
+            "license": null,
+            "last_commit": "2026-08-29T04:10:09Z",
+            "open_issues": 2614,
             "owner": "WebKit",
             "repo": "WebKit",
-            "stars": 10099
+            "stars": 10099,
+            "topics": [
+              "browser",
+              "gtk",
+              "ios",
+              "javascript",
+              "macos",
+              "web",
+              "webkit"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -592,12 +957,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An audio server, programming language, and IDE for sound synthesis and algorithmic composition.",
+            "homepage": "http://supercollider.github.io",
             "id": 4228314,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-20T21:07:16Z",
+            "open_issues": 1093,
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6706
+            "stars": 6706,
+            "topics": [
+              "algorithmic-composition",
+              "audio",
+              "c-plus-plus",
+              "computer-music",
+              "electronic-music",
+              "hacktoberfest",
+              "livecoding",
+              "music",
+              "programming-language",
+              "sclang",
+              "scsynth",
+              "sonification",
+              "sound",
+              "supercollider",
+              "synthesis"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -608,12 +994,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Software modular synth",
+            "homepage": null,
             "id": 65670631,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T03:52:15Z",
+            "open_issues": 356,
             "owner": "BespokeSynth",
             "repo": "BespokeSynth",
-            "stars": 4699
+            "stars": 4699,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -624,12 +1015,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The virtual Eurorack studio",
+            "homepage": "http://vcvrack.com/",
             "id": 73756539,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-04T08:47:14Z",
+            "open_issues": 307,
             "owner": "VCVRack",
             "repo": "Rack",
-            "stars": 4406
+            "stars": 4406,
+            "topics": [
+              "vcvrack"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -640,12 +1038,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DX7 FM multi plaform/multi format plugin",
+            "homepage": null,
             "id": 14973783,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-25T14:14:30Z",
+            "open_issues": 80,
             "owner": "asb2m10",
             "repo": "dexed",
-            "stars": 3479
+            "stars": 3479,
+            "topics": [
+              "dx7",
+              "vst"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -656,12 +1062,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AudioKit Synth One: Open-Source iOS Synthesizer App",
+            "homepage": "http://audiokitpro.com/synth",
             "id": 96639244,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-03-14T16:12:43Z",
+            "open_issues": 26,
             "owner": "AudioKit",
             "repo": "AudioKitSynthOne",
-            "stars": 1787
+            "stars": 1787,
+            "topics": [
+              "audio",
+              "audiobus",
+              "audiounit",
+              "auv3",
+              "fx",
+              "keyboard",
+              "knob",
+              "microtonal",
+              "midi",
+              "music",
+              "piano",
+              "plugin",
+              "presets",
+              "reverb",
+              "sequencer",
+              "sound",
+              "synth",
+              "synthesizer",
+              "touchpad"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -672,12 +1103,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Main repository for Csound",
+            "homepage": "https://csound.com",
             "id": 18047592,
             "language": "C",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-28T10:18:21Z",
+            "open_issues": 28,
             "owner": "csound",
             "repo": "csound",
-            "stars": 1503
+            "stars": 1503,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -688,12 +1124,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tracktion Engine module",
+            "homepage": null,
             "id": 156860418,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T20:35:33Z",
+            "open_issues": 38,
             "owner": "Tracktion",
             "repo": "tracktion_engine",
-            "stars": 1435
+            "stars": 1435,
+            "topics": [
+              "audio",
+              "audio-processing",
+              "c-plus-plus",
+              "cpp",
+              "daw",
+              "framework",
+              "juce"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -704,12 +1153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This contains all the Airwindows audio open source code",
+            "homepage": null,
             "id": 118393739,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-23T08:58:45Z",
+            "open_issues": 33,
             "owner": "airwindows",
             "repo": "airwindows",
-            "stars": 1209
+            "stars": 1209,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -720,12 +1174,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An audio plugin with Pure Data embedded that allows to load and to control patches",
+            "homepage": null,
             "id": 39728090,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-26T10:06:47Z",
+            "open_issues": 36,
             "owner": "pierreguillot",
             "repo": "Camomile",
-            "stars": 990
+            "stars": 990,
+            "topics": [
+              "audio",
+              "audio-plugin",
+              "audio-unit",
+              "juce",
+              "libpd",
+              "lv2",
+              "pd",
+              "plugin",
+              "pure-data",
+              "vst",
+              "vst3"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -736,12 +1207,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of header only classes, permissively licensed, to provide basic useful tasks with the bare-minimum of dependencies.",
+            "homepage": null,
             "id": 266307038,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-16T11:45:29Z",
+            "open_issues": 15,
             "owner": "Tracktion",
             "repo": "choc",
-            "stars": 858
+            "stars": 858,
+            "topics": [
+              "audio",
+              "c-plus-plus",
+              "containers",
+              "header-only",
+              "json",
+              "library",
+              "utility-library"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -752,12 +1236,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Destroy FX is a music software project of Sophia Poirier and Tom Murphy 7.  Mostly we make audio effect plugins that destroy your sound.  Supported plugin APIs include Audio Unit and VST.  Includes the DfxPlugin and DFX GUI frameworks.",
+            "homepage": "http://destroyfx.org",
             "id": 295217582,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-15T17:32:14Z",
+            "open_issues": 7,
             "owner": "sophiapoirier",
             "repo": "destroyfx",
-            "stars": 268
+            "stars": 268,
+            "topics": [
+              "audio",
+              "audiounit",
+              "dsp",
+              "noise",
+              "vst"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -768,12 +1263,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NI Media is a C++ library for reading and writing audio streams.",
+            "homepage": null,
             "id": 107114418,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-08-21T09:22:33Z",
+            "open_issues": 15,
             "owner": "NativeInstruments",
             "repo": "ni-media",
-            "stars": 254
+            "stars": 254,
+            "topics": [
+              "aiff",
+              "audio",
+              "cpp",
+              "cpp14",
+              "flac",
+              "m4a",
+              "mp3",
+              "mp4",
+              "music",
+              "ogg",
+              "ogg-flac",
+              "ogg-vorbis",
+              "pcm",
+              "sound",
+              "streams",
+              "wav"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -784,12 +1301,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 14503532,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2014-10-27T18:30:00Z",
+            "open_issues": 2,
             "owner": "2DaT",
             "repo": "Obxd",
-            "stars": 137
+            "stars": 137,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         }
@@ -806,12 +1328,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+            "homepage": "https://onnxruntime.ai",
             "id": 156939672,
             "language": "C++",
-            "last_commit": "2026-08-29T02:05:11Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:57:13Z",
+            "open_issues": 1647,
             "owner": "microsoft",
             "repo": "onnxruntime",
-            "stars": 21670
+            "stars": 21670,
+            "topics": [
+              "ai-framework",
+              "deep-learning",
+              "hardware-acceleration",
+              "machine-learning",
+              "neural-networks",
+              "onnx",
+              "pytorch",
+              "scikit-learn",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -822,12 +1359,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural network emulator for guitar amplifiers.",
+            "homepage": null,
             "id": 163906234,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-23T01:38:28Z",
+            "open_issues": 32,
             "owner": "sdatkinson",
             "repo": "neural-amp-modeler",
-            "stars": 2992
+            "stars": 2992,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -838,12 +1380,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time neural network inferencing",
+            "homepage": null,
             "id": 304395686,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-20T13:42:01Z",
+            "open_issues": 18,
             "owner": "jatinchowdhury18",
             "repo": "RTNeural",
-            "stars": 838
+            "stars": 838,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -854,12 +1401,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural network inference template for real-time cricital audio environments - presented at ADC23",
+            "homepage": "https://torsion-audio.github.io/nn-inference-template/",
             "id": 692856370,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-07-28T14:14:50Z",
+            "open_issues": 0,
             "owner": "Torsion-Audio",
             "repo": "nn-inference-template",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "audio",
+              "audio-plugin",
+              "deep-learning",
+              "inference",
+              "inference-engine",
+              "juce",
+              "libtorch",
+              "machine-learning",
+              "neural-network",
+              "onnx",
+              "onnxruntime",
+              "pytorch",
+              "tensorflow",
+              "tensorflow-lite"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         }
@@ -876,12 +1443,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Eurorack modules",
+            "homepage": null,
             "id": 12383220,
             "language": "C++",
+            "license": null,
             "last_commit": "2023-12-13T18:32:04Z",
+            "open_issues": 6,
             "owner": "pichenettes",
             "repo": "eurorack",
-            "stars": 3167
+            "stars": 3167,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -892,12 +1464,34 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Pédale Vite — DIY multi-FX pedalboard for guitar/bass/etc.",
+            "homepage": "http://ldesoras.free.fr/doc/articles/pedale-vite/pedale-vite.html",
             "id": 77694808,
             "language": "C++",
+            "license": "WTFPL",
             "last_commit": "2023-09-01T21:13:56Z",
+            "open_issues": 1,
             "owner": "EleonoreMizo",
             "repo": "pedalevite",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "arm",
+              "audio-effects",
+              "audio-processing",
+              "bass",
+              "diy",
+              "dsp",
+              "electronics",
+              "footswitch",
+              "guitar",
+              "linux",
+              "modular",
+              "neon",
+              "pedalboard",
+              "raspberry-pi-3",
+              "raspberry-pi-4",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         },
@@ -908,12 +1502,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Patches by Oli Larkin for the OWL Pedal",
+            "homepage": null,
             "id": 24825001,
             "language": "C++",
+            "license": null,
             "last_commit": "2019-06-15T20:23:09Z",
+            "open_issues": 0,
             "owner": "olilarkin",
             "repo": "OL-OWLPatches",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
         }
@@ -922,15 +1521,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:07:36.095Z",
+    "last_updated": "2026-08-29T04:20:41.186Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of my favourite music DSP and audio programming resources",
+      "homepage": null,
       "id": 128105860,
       "language": null,
+      "license": "CC-BY-4.0",
       "last_commit": "2026-05-30T16:10:00Z",
+      "open_issues": 6,
       "owner": "olilarkin",
       "repo": "awesome-musicdsp",
-      "stars": 2992
+      "stars": 2993,
+      "topics": [
+        "audio",
+        "audiounit",
+        "dsp",
+        "plugin",
+        "vst",
+        "vst2",
+        "vst3"
+      ]
     },
     "original_repository_sha": "ff2187536d494427a20385c57580037f8e3869a1",
     "enhanced_repository": "enhansome/enhansome-musicdsp",
