@@ -12,11 +12,12 @@
             "archived": false,
             "id": 3884981,
             "language": "C++",
-            "last_commit": "2026-08-26T07:12:53Z",
+            "last_commit": "2026-08-28T10:01:28Z",
             "owner": "juce-framework",
             "repo": "JUCE",
-            "stars": 8837
-          }
+            "stars": 8843
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-11T14:32:40Z",
             "owner": "steinbergmedia",
             "repo": "vst3sdk",
-            "stars": 2338
-          }
+            "stars": 2339
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "olilarkin",
             "repo": "wdl-ol",
             "stars": 942
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-08-22T13:36:25Z",
             "owner": "DISTRHO",
             "repo": "DPF",
-            "stars": 857
-          }
+            "stars": 859
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "Tremus",
             "repo": "CPLUG",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         }
       ],
       "title": "Audio Plug-in/App Frameworks"
@@ -97,7 +102,8 @@
             "owner": "sudara",
             "repo": "pamplejuce",
             "stars": 756
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "eyalamirmusic",
             "repo": "JUCECmakeRepoPrototype",
             "stars": 295
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "JanWilczek",
             "repo": "audio-plugin-template",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -141,8 +149,9 @@
             "last_commit": "2026-08-01T00:48:09Z",
             "owner": "iPlug2",
             "repo": "iPlug2OOS",
-            "stars": 154
-          }
+            "stars": 155
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "bradhowes",
             "repo": "AUv3Template",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         }
       ],
       "title": "Audio plug-in templates"
@@ -178,7 +188,8 @@
             "owner": "cycfi",
             "repo": "elements",
             "stars": 3720
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "steinbergmedia",
             "repo": "vstgui",
             "stars": 1089
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "lv2",
             "repo": "pugl",
             "stars": 213
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         }
       ],
       "title": "UI Frameworks"
@@ -229,7 +242,8 @@
             "owner": "cycfi",
             "repo": "q",
             "stars": 1418
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "leomccormack",
             "repo": "Spatial_Audio_Framework",
             "stars": 742
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "LancePutnam",
             "repo": "Gamma",
             "stars": 498
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "justinfrankel",
             "repo": "WDL",
             "stars": 479
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "madrona-labs",
             "repo": "madronalib",
             "stars": 335
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "CICM",
             "repo": "HoaLibrary-Light",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "Mach1Studios",
             "repo": "m1-sdk",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "AlexHarker",
             "repo": "HISSTools_Library",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         }
       ],
       "title": "DSP Libraries"
@@ -354,8 +375,9 @@
             "last_commit": "2026-08-27T18:31:38Z",
             "owner": "MTG",
             "repo": "essentia",
-            "stars": 3706
-          }
+            "stars": 3708
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -369,8 +391,9 @@
             "last_commit": "2026-03-06T04:12:17Z",
             "owner": "libAudioFlux",
             "repo": "audioFlux",
-            "stars": 3352
-          }
+            "stars": 3353
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "olilarkin",
             "repo": "librosa.cpp",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         }
       ],
       "title": "Music Information Retrieval Libraries (C/C++)"
@@ -402,11 +426,12 @@
             "archived": false,
             "id": 72926839,
             "language": "C++",
-            "last_commit": "2026-08-27T10:36:50Z",
+            "last_commit": "2026-08-28T20:40:07Z",
             "owner": "grame-cncm",
             "repo": "faust",
-            "stars": 3138
-          }
+            "stars": 3139
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         }
       ],
       "title": "Domain Specific Languages (DSLs)"
@@ -427,7 +452,8 @@
             "owner": "vinniefalco",
             "repo": "DSPFilters",
             "stars": 2069
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         }
       ],
       "title": "Filter design"
@@ -448,7 +474,8 @@
             "owner": "lava",
             "repo": "matplotlib-cpp",
             "stars": 4772
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -463,7 +490,8 @@
             "owner": "kfrlib",
             "repo": "dspplot",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -478,7 +506,8 @@
             "owner": "olilarkin",
             "repo": "XeusClingMatplotLibExample",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         }
       ],
       "title": "Tools"
@@ -498,8 +527,9 @@
             "last_commit": "2026-08-17T00:39:04Z",
             "owner": "surge-synthesizer",
             "repo": "surge",
-            "stars": 3981
-          }
+            "stars": 3983
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -513,8 +543,9 @@
             "last_commit": "2023-05-25T04:09:10Z",
             "owner": "mtytel",
             "repo": "vital",
-            "stars": 2111
-          }
+            "stars": 2113
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -529,7 +560,8 @@
             "owner": "tote-bag-labs",
             "repo": "valentine",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         }
       ],
       "title": "Exemplary open source audio plug-in projects"
@@ -546,11 +578,12 @@
             "archived": false,
             "id": 320636477,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T02:49:30Z",
+            "last_commit": "2026-08-29T01:55:28Z",
             "owner": "WebKit",
             "repo": "WebKit",
             "stars": 10099
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -564,8 +597,9 @@
             "last_commit": "2026-08-20T21:07:16Z",
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6704
-          }
+            "stars": 6706
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -580,7 +614,8 @@
             "owner": "BespokeSynth",
             "repo": "BespokeSynth",
             "stars": 4699
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -595,7 +630,8 @@
             "owner": "VCVRack",
             "repo": "Rack",
             "stars": 4406
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -610,7 +646,8 @@
             "owner": "asb2m10",
             "repo": "dexed",
             "stars": 3479
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -625,7 +662,8 @@
             "owner": "AudioKit",
             "repo": "AudioKitSynthOne",
             "stars": 1787
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -636,11 +674,12 @@
             "archived": false,
             "id": 18047592,
             "language": "C",
-            "last_commit": "2026-08-19T12:22:13Z",
+            "last_commit": "2026-08-28T10:18:21Z",
             "owner": "csound",
             "repo": "csound",
             "stars": 1503
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -655,7 +694,8 @@
             "owner": "Tracktion",
             "repo": "tracktion_engine",
             "stars": 1435
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -670,7 +710,8 @@
             "owner": "airwindows",
             "repo": "airwindows",
             "stars": 1209
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -684,8 +725,9 @@
             "last_commit": "2024-02-26T10:06:47Z",
             "owner": "pierreguillot",
             "repo": "Camomile",
-            "stars": 989
-          }
+            "stars": 990
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -700,7 +742,8 @@
             "owner": "Tracktion",
             "repo": "choc",
             "stars": 858
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -715,7 +758,8 @@
             "owner": "sophiapoirier",
             "repo": "destroyfx",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -730,7 +774,8 @@
             "owner": "NativeInstruments",
             "repo": "ni-media",
             "stars": 254
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -744,8 +789,9 @@
             "last_commit": "2014-10-27T18:30:00Z",
             "owner": "2DaT",
             "repo": "Obxd",
-            "stars": 136
-          }
+            "stars": 137
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         }
       ],
       "title": "Miscellaneous open source audio code/projects"
@@ -762,11 +808,12 @@
             "archived": false,
             "id": 156939672,
             "language": "C++",
-            "last_commit": "2026-08-28T02:53:47Z",
+            "last_commit": "2026-08-29T02:05:11Z",
             "owner": "microsoft",
             "repo": "onnxruntime",
-            "stars": 21659
-          }
+            "stars": 21670
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -781,7 +828,8 @@
             "owner": "sdatkinson",
             "repo": "neural-amp-modeler",
             "stars": 2992
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -796,7 +844,8 @@
             "owner": "jatinchowdhury18",
             "repo": "RTNeural",
             "stars": 838
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -811,7 +860,8 @@
             "owner": "Torsion-Audio",
             "repo": "nn-inference-template",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         }
       ],
       "title": "Machine Learning"
@@ -831,8 +881,9 @@
             "last_commit": "2023-12-13T18:32:04Z",
             "owner": "pichenettes",
             "repo": "eurorack",
-            "stars": 3166
-          }
+            "stars": 3167
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -847,7 +898,8 @@
             "owner": "EleonoreMizo",
             "repo": "pedalevite",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         },
         {
           "node_type": "item",
@@ -862,14 +914,15 @@
             "owner": "olilarkin",
             "repo": "OL-OWLPatches",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T02:07:36.095Z"
         }
       ],
       "title": "Hardware/embedded"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:33:19.624Z",
+    "last_updated": "2026-08-29T02:07:36.095Z",
     "original_repository_info": {
       "archived": false,
       "id": 128105860,
