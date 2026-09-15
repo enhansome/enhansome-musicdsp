@@ -15,11 +15,11 @@
             "id": 3884981,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T09:07:31Z",
-            "open_issues": 486,
+            "last_commit": "2026-09-15T14:04:02Z",
+            "open_issues": 488,
             "owner": "juce-framework",
             "repo": "JUCE",
-            "stars": 8898,
+            "stars": 8902,
             "topics": [
               "aax",
               "au",
@@ -53,7 +53,7 @@
             "open_issues": 25,
             "owner": "steinbergmedia",
             "repo": "vst3sdk",
-            "stars": 2354,
+            "stars": 2356,
             "topics": [
               "audio",
               "ios",
@@ -112,7 +112,7 @@
             "open_issues": 80,
             "owner": "DISTRHO",
             "repo": "DPF",
-            "stars": 862,
+            "stars": 864,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
@@ -164,7 +164,7 @@
             "open_issues": 26,
             "owner": "sudara",
             "repo": "pamplejuce",
-            "stars": 757,
+            "stars": 758,
             "topics": [
               "audio",
               "catch2",
@@ -245,11 +245,11 @@
             "id": 237939972,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-01T00:48:09Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-15T09:28:49Z",
+            "open_issues": 5,
             "owner": "iPlug2",
             "repo": "iPlug2OOS",
-            "stars": 154,
+            "stars": 155,
             "topics": [
               "actions",
               "audiounit",
@@ -303,11 +303,11 @@
             "id": 54825678,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-14T14:30:57Z",
+            "last_commit": "2026-09-15T00:45:06Z",
             "open_issues": 41,
             "owner": "cycfi",
             "repo": "elements",
-            "stars": 3715,
+            "stars": 3717,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -477,7 +477,7 @@
             "id": 13956578,
             "language": "C",
             "license": null,
-            "last_commit": "2026-09-14T21:31:40Z",
+            "last_commit": "2026-09-15T20:04:30Z",
             "open_issues": 17,
             "owner": "justinfrankel",
             "repo": "WDL",
@@ -498,8 +498,8 @@
             "id": 7949127,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-14T21:55:25Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-15T00:21:09Z",
+            "open_issues": 0,
             "owner": "madrona-labs",
             "repo": "madronalib",
             "stars": 336,
@@ -606,7 +606,7 @@
             "open_issues": 438,
             "owner": "MTG",
             "repo": "essentia",
-            "stars": 3722,
+            "stars": 3723,
             "topics": [
               "audio",
               "audio-analysis",
@@ -711,11 +711,11 @@
             "id": 72926839,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T16:56:25Z",
+            "last_commit": "2026-09-15T18:57:55Z",
             "open_issues": 245,
             "owner": "grame-cncm",
             "repo": "faust",
-            "stars": 3158,
+            "stars": 3160,
             "topics": [
               "audio",
               "c",
@@ -860,11 +860,11 @@
             "id": 149678202,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-14T14:56:45Z",
-            "open_issues": 172,
+            "last_commit": "2026-09-15T06:18:02Z",
+            "open_issues": 170,
             "owner": "surge-synthesizer",
             "repo": "surge",
-            "stars": 4011,
+            "stars": 4013,
             "topics": [
               "audio-units",
               "synthesizer",
@@ -889,7 +889,7 @@
             "open_issues": 43,
             "owner": "mtytel",
             "repo": "vital",
-            "stars": 2135,
+            "stars": 2137,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
@@ -933,11 +933,11 @@
             "id": 320636477,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-14T22:26:23Z",
-            "open_issues": 2676,
+            "last_commit": "2026-09-15T22:09:09Z",
+            "open_issues": 2660,
             "owner": "WebKit",
             "repo": "WebKit",
-            "stars": 10150,
+            "stars": 10152,
             "topics": [
               "browser",
               "gtk",
@@ -963,10 +963,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-14T17:34:04Z",
-            "open_issues": 1089,
+            "open_issues": 1091,
             "owner": "supercollider",
             "repo": "supercollider",
-            "stars": 6732,
+            "stars": 6734,
             "topics": [
               "algorithmic-composition",
               "audio",
@@ -1003,7 +1003,7 @@
             "open_issues": 358,
             "owner": "BespokeSynth",
             "repo": "BespokeSynth",
-            "stars": 4710,
+            "stars": 4714,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
@@ -1024,7 +1024,7 @@
             "open_issues": 307,
             "owner": "VCVRack",
             "repo": "Rack",
-            "stars": 4417,
+            "stars": 4418,
             "topics": [
               "vcvrack"
             ]
@@ -1047,7 +1047,7 @@
             "open_issues": 80,
             "owner": "asb2m10",
             "repo": "dexed",
-            "stars": 3507,
+            "stars": 3510,
             "topics": [
               "dx7",
               "vst"
@@ -1108,7 +1108,7 @@
             "id": 18047592,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-14T21:30:45Z",
+            "last_commit": "2026-09-15T20:29:01Z",
             "open_issues": 41,
             "owner": "csound",
             "repo": "csound",
@@ -1129,8 +1129,8 @@
             "id": 156860418,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T21:35:12Z",
-            "open_issues": 40,
+            "last_commit": "2026-09-15T20:46:18Z",
+            "open_issues": 39,
             "owner": "Tracktion",
             "repo": "tracktion_engine",
             "stars": 1443,
@@ -1162,7 +1162,7 @@
             "open_issues": 34,
             "owner": "airwindows",
             "repo": "airwindows",
-            "stars": 1227,
+            "stars": 1229,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
@@ -1216,7 +1216,7 @@
             "open_issues": 15,
             "owner": "Tracktion",
             "repo": "choc",
-            "stars": 861,
+            "stars": 862,
             "topics": [
               "audio",
               "c-plus-plus",
@@ -1241,7 +1241,7 @@
             "id": 295217582,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-14T03:55:11Z",
+            "last_commit": "2026-09-15T05:11:10Z",
             "open_issues": 7,
             "owner": "sophiapoirier",
             "repo": "destroyfx",
@@ -1333,11 +1333,11 @@
             "id": 156939672,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-14T22:23:48Z",
-            "open_issues": 1729,
+            "last_commit": "2026-09-15T22:07:22Z",
+            "open_issues": 1728,
             "owner": "microsoft",
             "repo": "onnxruntime",
-            "stars": 21851,
+            "stars": 21857,
             "topics": [
               "ai-framework",
               "deep-learning",
@@ -1449,10 +1449,10 @@
             "language": "C++",
             "license": null,
             "last_commit": "2023-12-13T18:32:04Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "pichenettes",
             "repo": "eurorack",
-            "stars": 3174,
+            "stars": 3175,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
@@ -1521,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T22:26:48.489Z",
+    "last_updated": "2026-09-15T22:10:00.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of my favourite music DSP and audio programming resources",
