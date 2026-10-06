@@ -15,11 +15,11 @@
             "id": 3884981,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T11:13:51Z",
-            "open_issues": 488,
+            "last_commit": "2026-10-06T19:57:16Z",
+            "open_issues": 485,
             "owner": "juce-framework",
             "repo": "JUCE",
-            "stars": 8953,
+            "stars": 8954,
             "topics": [
               "aax",
               "au",
@@ -109,10 +109,10 @@
             "language": "C++",
             "license": "ISC",
             "last_commit": "2026-10-04T09:16:37Z",
-            "open_issues": 85,
+            "open_issues": 87,
             "owner": "DISTRHO",
             "repo": "DPF",
-            "stars": 872,
+            "stars": 873,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
@@ -164,7 +164,7 @@
             "open_issues": 26,
             "owner": "sudara",
             "repo": "pamplejuce",
-            "stars": 768,
+            "stars": 769,
             "topics": [
               "audio",
               "catch2",
@@ -307,7 +307,7 @@
             "open_issues": 41,
             "owner": "cycfi",
             "repo": "elements",
-            "stars": 3724,
+            "stars": 3725,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -390,7 +390,7 @@
             "open_issues": 0,
             "owner": "cycfi",
             "repo": "q",
-            "stars": 1429,
+            "stars": 1430,
             "topics": [
               "audio",
               "audio-processing",
@@ -637,7 +637,7 @@
             "open_issues": 16,
             "owner": "libAudioFlux",
             "repo": "audioFlux",
-            "stars": 3372,
+            "stars": 3371,
             "topics": [
               "audio",
               "audio-analysis",
@@ -711,7 +711,7 @@
             "id": 72926839,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T04:43:54Z",
+            "last_commit": "2026-10-06T21:22:07Z",
             "open_issues": 243,
             "owner": "grame-cncm",
             "repo": "faust",
@@ -789,7 +789,7 @@
             "open_issues": 223,
             "owner": "lava",
             "repo": "matplotlib-cpp",
-            "stars": 4766,
+            "stars": 4765,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
@@ -889,7 +889,7 @@
             "open_issues": 43,
             "owner": "mtytel",
             "repo": "vital",
-            "stars": 2159,
+            "stars": 2160,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
@@ -933,11 +933,11 @@
             "id": 320636477,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-06T10:58:42Z",
-            "open_issues": 2826,
+            "last_commit": "2026-10-06T22:55:12Z",
+            "open_issues": 2827,
             "owner": "WebKit",
             "repo": "WebKit",
-            "stars": 10208,
+            "stars": 10209,
             "topics": [
               "browser",
               "gtk",
@@ -963,7 +963,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-06T07:17:04Z",
-            "open_issues": 1097,
+            "open_issues": 1100,
             "owner": "supercollider",
             "repo": "supercollider",
             "stars": 6776,
@@ -1003,7 +1003,7 @@
             "open_issues": 357,
             "owner": "BespokeSynth",
             "repo": "BespokeSynth",
-            "stars": 4734,
+            "stars": 4736,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
@@ -1108,7 +1108,7 @@
             "id": 18047592,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-06T09:47:27Z",
+            "last_commit": "2026-10-06T13:27:52Z",
             "open_issues": 23,
             "owner": "csound",
             "repo": "csound",
@@ -1129,7 +1129,7 @@
             "id": 156860418,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T14:12:13Z",
+            "last_commit": "2026-10-06T19:23:16Z",
             "open_issues": 35,
             "owner": "Tracktion",
             "repo": "tracktion_engine",
@@ -1333,11 +1333,11 @@
             "id": 156939672,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:53:11Z",
-            "open_issues": 1749,
+            "last_commit": "2026-10-06T22:57:49Z",
+            "open_issues": 1737,
             "owner": "microsoft",
             "repo": "onnxruntime",
-            "stars": 22024,
+            "stars": 22026,
             "topics": [
               "ai-framework",
               "deep-learning",
@@ -1368,7 +1368,7 @@
             "open_issues": 35,
             "owner": "sdatkinson",
             "repo": "neural-amp-modeler",
-            "stars": 3074,
+            "stars": 3075,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:36.095Z"
@@ -1521,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:03:01.371Z",
+    "last_updated": "2026-10-06T22:59:40.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of my favourite music DSP and audio programming resources",
